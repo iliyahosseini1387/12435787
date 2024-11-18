@@ -1,0 +1,27 @@
+<!DOCTYPEhtml>
+<html>
+ <head>
+ <meta charset="UTF-8">
+ <title>hosseini</title>
+ </head>
+ <body style="width:80%;height:1080px;background:white">
+ <header style="background:blue">
+ <h2 style=color:blue">سلام</h2>
+ <h3 style=color:red">اندروید</h3>
+ <main style="text-align:center;">
+ <h3> من و دوستان </h3>
+ <aside style="width:100%;height:40px;background-color:yellow">
+  <aside style="width:100%;height:40px;background-color:red">
+ </aside>
+ <section dir="ltr"style=";width:60%;height:300px;background-color:black">
+ <h4> اموزش طراحی سایت </h4>
+ <article style="width:50%;height:110px;background-color:red">
+ <article style="width:60%;height:150px;background-color:blue">
+ <h4>1387</h4>
+ </article>
+ </section>
+ </main>
+ <footer style="width:70%;height:100px;background-color:yellow">
+ <h2>iliya hosseini<h2>
+ </footer>
+ </body>
